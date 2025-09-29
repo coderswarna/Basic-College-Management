@@ -4,10 +4,10 @@
  *Date: [03-09-2025]
  *It is just a small CRUD application developed for learning purposes.
  *Functions to be added:
- *    1. Search by ID or Name
- *    2. Printing of all members with a different function
- *        (void printParsedData(student *data, int index);)
- *    3. Add validation for all printing function
+ *	1. Search by ID or Name
+ *	2. Printing of all members with a different function
+ *		(void printParsedData(student *data, int index);)
+ *	3. Add validation for all printing function
  */
 #include <stdio.h>
 #include <string.h>
