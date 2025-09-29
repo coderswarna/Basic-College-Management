@@ -20,7 +20,12 @@ A simple console-based application for managing student, teacher, and staff reco
 ## How to Compile and Run
 
 1. **Clone the repository or download the source code.**
-2. **Navigate to the `college-management` directory.**
+
+    ```ssh
+    git clone https://github.com/coderswarna/Basic-College-Management.git
+    ```
+
+2. **Navigate to the `Basic-College-Management` directory.**
 
     ```sh
     cd Basic-College-Management
@@ -53,3 +58,5 @@ A simple console-based application for managing student, teacher, and staff reco
 - `student.csv`: Stores the records for all students.
 - `teacher.csv`: Stores the records for all teachers.
 - `staff.csv`: Stores the records for all staff members.
+
+---
