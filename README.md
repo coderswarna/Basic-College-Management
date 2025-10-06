@@ -4,7 +4,7 @@ A simple console-based application for managing student, teacher, and staff reco
 
 ## Author
 
-- **Swarnadeep Paul** - [github.com/coderswarna](https://github.com/codewithchill)
+- **Swarnadeep Paul** - [github.com/codewithchill](https://github.com/codewithchill)
 
 ## Features
 
